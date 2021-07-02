@@ -1,6 +1,6 @@
 # Página Web com EJS (HTML inteligente)
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5"></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=CSS3&color=1572B6&style=for-the-badge&logo=CSS3"></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript"></a> <a href="https://www.codewars.com/users/Victor%20Hugo%20da%20Silva" target="blank"><img alt="CodeWars" src="https://img.shields.io/static/v1?label=Follow&message=CodeWars&color=B1361E&style=for-the-badge&logo=codewars"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=HTML5&color=E34F26&style=for-the-badge&logo=HTML5"></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank"><img alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=JavaScript&color=F7DF1E&style=for-the-badge&logo=JavaScript"></a> <a href="https://nodejs.org/en/"  target="blank"><img  alt="GitHub issues" src="https://img.shields.io/static/v1?label=tech&message=NODE&color=339933&style=for-the-badge&logo=node.js"></a> <a href="https://expressjs.com/pt-br/"><img  alt="GitHub issues"  src="https://img.shields.io/static/v1?label=tech&message=EXPRESS&color=000000&style=for-the-badge&logo=express"></a> <a  href="https://www.npmjs.com/"><img  alt="GitHub issues"  src="https://img.shields.io/static/v1?label=tech&message=NPM&color=CB3837&style=for-the-badge&logo=npm"></a> <a href="https://www.codewars.com/users/Victor%20Hugo%20da%20Silva" target="blank"><img alt="CodeWars" src="https://img.shields.io/static/v1?label=Follow&message=CodeWars&color=B1361E&style=for-the-badge&logo=codewars"></a>
 
 Essa página web foi produzida com auxílio do site [Utilizando a engine EJS para aplicações em NodeJS](https://hub.casadodesenvolvedor.com.br/topic/26-utilizando-a-engine-ejs-para-aplica%C3%A7%C3%B5es-em-nodejs/) por Karina Harumi. No artigo é mostrado como produzir uma página utilizando EJS, além de como funciona alguns pacotes do npm usados durante o projeto. Essa versão inicial está como a do site, porém vou ir melhorando para se tornar um projeto de minha autoria.
 
@@ -69,8 +69,6 @@ Para rodar a aplicação, você deve estar na pasta do projeto e dentro dela rod
 Isso fará com que a aplicação seja iniciada no localhost:3000 como mostra a imagem abaixo:
 
 <img src="./screenshots/npm-start.png" alt="aplicação sendo executada">
-
-<img  src="./screenshots/forma-de-baixar-projeto.png"  alt="forma de baixar projeto">
 
 ### 🛠 Tecnologias
 
