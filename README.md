@@ -84,7 +84,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-- npm packgers
+- npm packages
 
 ```bash
     npm i ejs
