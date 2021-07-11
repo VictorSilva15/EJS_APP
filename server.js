@@ -47,5 +47,5 @@ app.post("/contact", (req, res) => {
 });
 
 app.use(express.static(__dirname + "/public"));
-app.listen(port);
-console.log("Servidor iniciado em http://localhost:" + port);
+app.listen("/");
+console.log("Servidor iniciado em: " + __dirname + port);
